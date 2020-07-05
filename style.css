@@ -48,3 +48,9 @@
     background-color: white !important;
     border-top: none !important;
 }
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
